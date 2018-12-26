@@ -43,9 +43,17 @@
     },
     {
         "id": "7",
+        "title": "White gyroboard",
+        "image": "gyroboard-white.jpg",
+        "description": "White gyroboard with blue lights",
+        "price": 829.99
+    },
+    {
+        "id": "8",
         "title": "Tesla Model X",
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
     }
+    
 ]
